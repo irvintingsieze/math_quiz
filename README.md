@@ -4,4 +4,4 @@ This math quiz application allows users to test their mental calculations in a s
 The categories for mental calculations includes addition, subtraction, multiplication and division.
 Their highscore will be recorded at the end of quiz.
 
-![Quiz](https://github.com/irvintingsieze/master/math_quiz_.gif)
+![Quiz](https://github.com/irvintingsieze/math_quiz/math_quiz_.gif)
