@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+
+    //Main activity
+    <string name="startQuizButton">Start Quiz</string>
+    <string name="highscore">Highscore: 0</string>
+
+
+    //MathQuizActivity
+    <string name="points">Points: 0</string>
+    <string name="questions">QUESTION PLACEHOLDER</string>
+    <string name="timer">00:30</string>
+    <string name="category">Category: </string>
+    <string name="opt1">Option 1</string>
+    <string name="opt2">Option 2</string>
+    <string name="opt3">Option 3</string>
+    <string name="opt4">Option 4</string>
+    <string name="submitBtn">Submit</string>
+
+</resources>
