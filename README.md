@@ -1,4 +1,4 @@
-# math_quiz
+# Math Quiz
 
 This math quiz application allows users to test their mental calculations in a short 15 second timeframe.
 The categories for mental calculations includes addition, subtraction, multiplication and division.
