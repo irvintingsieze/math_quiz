@@ -7,3 +7,5 @@ The categories for mental calculations includes addition, subtraction, multiplic
 Their highscore will be recorded at the end of quiz.
 
 ![Quiz](https://github.com/irvintingsieze/math_quiz/blob/master/math_quiz_screen.gif)
+
+Application video: https://youtu.be/XFqJ9KVjXJM
